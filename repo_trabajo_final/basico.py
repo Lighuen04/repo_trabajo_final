@@ -51,6 +51,6 @@ for i in range(160 + 40):
 # Texto final
 turtle.penup()
 turtle.color("White")
-turtle.write("Te Quiero", align="center", font=("Arial", 24, "bold"))
+turtle.write("¡Hola Mundo!", align="center", font=("Arial", 24, "bold"))
 turtle.hideturtle()
 turtle.exitonclick()
